@@ -1,0 +1,94 @@
+.navbar{
+    margin-bottom: 40px;
+}
+.Introductory-section{
+    background-color: cornsilk;
+    height: 500px;
+}
+.nav-link{
+    font-weight: bold;
+    color: black !important;
+}
+.nav-link:hover{
+    background-color: tomato;
+    border-radius: 10px;
+    border: none;
+    color:white !important;
+}
+.button{
+    background-color: tomato;
+    border: none;
+    border-radius: 18px;
+    padding: 10px 10px;
+    color: white;
+    width: 150px;
+}
+.acheive{
+    margin-top: 100px;
+}
+.cat{
+    column-gap: 10px !important;
+    padding-top: 30px;
+    background-color: lightcyan;
+    border-radius: 10px;
+}
+.cat h3{
+    margin-top: 20px;
+}
+.cat h6{
+    padding-bottom: 20px;
+}
+.cat:hover{
+    box-shadow: 10px 10px 20px lightgray;
+    border: none;
+}
+.Courses{
+    padding-top: 50px;
+}
+.Courses h2{
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.card-img-top{
+    padding: 20px 15px;
+}
+.card{
+    border-radius: 20px;
+    border: none;
+    box-shadow: 8px 8px 18px 8px lightgray ;
+}
+.card-title{
+    font-weight: 700;
+}
+.card-footer i{
+    padding-right: 8px;
+}
+.card-text{
+    color: tomato;
+}
+small,i{
+    font-weight: 650;
+}
+.Man{
+    margin-top: 70px;
+}
+.Man h2{
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+footer{
+    margin-top: 70px;
+    background-color:rgb(51, 1, 51);
+    color: white;
+    height: 300px;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    text-decoration: none;
+    color: white;
+}
+.row ul li{
+    list-style-type: none;
+}
