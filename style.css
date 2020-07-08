@@ -128,3 +128,9 @@ footer a:hover{
 .fab{
     width: 200px;
 }
+.fab:hover{
+    color: chartreuse;
+}
+.fas:hover{
+    color: chartreuse;
+}
