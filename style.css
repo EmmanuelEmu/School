@@ -122,3 +122,6 @@ footer a:hover{
     height: 300px;
     margin-top: 70px;
 }
+.carousel slide{
+    background-color: chartreuse;
+}
