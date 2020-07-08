@@ -80,7 +80,7 @@ footer{
     margin-top: 70px;
     background-color:rgb(51, 1, 51);
     color: white;
-    height: 300px;
+    height: 480px;
 }
 footer a{
     color: white;
@@ -124,4 +124,7 @@ footer a:hover{
 }
 .carousel slide{
     background-color: chartreuse;
+}
+.fab{
+    width: 200px;
 }
