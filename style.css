@@ -92,3 +92,33 @@ footer a:hover{
 .row ul li{
     list-style-type: none;
 }
+.row ul li a:hover{
+    color: chartreuse;
+}
+.carousel-inner{
+    border-radius: 10px;
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: 10vh;
+    background-position: center;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.carousel-item p{
+    color: lightcoral;
+    width: 80%;
+}
+.carousel-indicators li{
+    background-color: orange;
+    height:8px;
+    border-radius: 12px;
+    width: 40px;
+}
+.carousel-part{
+    background-image: url("images/photos/learn-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: 70px;
+}
